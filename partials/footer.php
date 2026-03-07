@@ -8,15 +8,13 @@
         </div>
 
         <div>
-            <h4>Menu</h4>
-
+            <h4></h4>
             <ul>
-                <li>Home</li>
-                <li>Produk</li>
-                <li>Galeri</li>
-                <li>Tentang Kami</li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="index.php?page=produk">Produk</a></li>
+                <li><a href="index.php?page=galeri">Galeri</a></li>
+                <li><a href="index.php?page=about">Tentang Kami</a></li>
             </ul>
-
         </div>
 
         <div>

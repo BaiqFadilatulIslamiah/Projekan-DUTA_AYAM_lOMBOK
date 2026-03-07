@@ -21,7 +21,7 @@
 <section class="about-preview container">
 
     <div class="about-img">
-        <img src="assets/images/beranda.png">
+        <img src="assets/images/produk/super ayam.jpg">
     </div>
 
     <div class="about-text">
@@ -33,68 +33,54 @@
             Illum iure tempora molestiae, odit eos sit.
         </p>
 
-        <a href="#" class="btn">Pesan sekarang</a>
+        <a href="https://wa.me/6285937020880" class="btn" target="_blank">
+            Pesan Sekarang
+        </a>
 
     </div>
 
 </section>
 
 
-<!-- PRODUK -->
+<div class="produk-grid">
 
-<section class="produk-section">
-
-    <h2>Produk Kami</h2>
-
-    <div class="produk-grid">
-
-        <div class="produk-card">
-
-            <img src="assets/images/produk/ayam1.jpg">
-
-            <h4>Ayam Merah Jago</h4>
-
-            <a href="#" class="btn-detail">Lihat Detail</a>
-
-        </div>
-
-
-        <div class="produk-card">
-
-            <img src="assets/images/produk/ayam1.jpg">
-
-            <h4>Ayam Merah Jago</h4>
-
-            <a href="#" class="btn-detail">Lihat Detail</a>
-
-        </div>
-
-
-        <div class="produk-card">
-
-            <img src="assets/images/produk/ayam1.jpg">
-
-            <h4>Ayam Merah Jago</h4>
-
-            <a href="#" class="btn-detail">Lihat Detail</a>
-
-        </div>
-
-
-        <div class="produk-card">
-
-            <img src="assets/images/produk/ayam1.jpg">
-
-            <h4>Ayam Merah Jago</h4>
-
-            <a href="#" class="btn-detail">Lihat Detail</a>
-
-        </div>
-
+    <div class="produk-card">
+        <img src="assets/images/produk/super.jpg">
+        <h4>Ayam Merah Jago</h4>
+        <a href="index.php?page=produk-detail&id=1" class="btn-detail">Lihat Detail</a>
     </div>
 
-</section>
+    <div class="produk-card">
+        <img src="assets/images/produk/ayam bangkok.jpg">
+        <h4>Ayam Bangkok</h4>
+        <a href="index.php?page=produk-detail&id=2" class="btn-detail">Lihat Detail</a>
+    </div>
 
+    <div class="produk-card">
+        <img src="assets/images/produk/ayam kampung.jpg">
+        <h4>Ayam Kampung</h4>
+        <a href="index.php?page=produk-detail&id=3" class="btn-detail">Lihat Detail</a>
+    </div>
+
+    <div class="produk-card">
+        <img src="assets/images/produk/ayam petelur.jpg">
+        <h4>Ayam Petelur</h4>
+        <a href="index.php?page=produk-detail&id=4" class="btn-detail">Lihat Detail</a>
+    </div>
+
+    <div class="produk-card">
+        <img src="assets/images/produk/ayam cemani.jpg">
+        <h4>Ayam Cemani</h4>
+        <a href="index.php?page=produk-detail&id=5" class="btn-detail">Lihat Detail</a>
+    </div>
+
+    <div class="produk-card">
+        <img src="assets/images/produk/ayam kalkun.jpg">
+        <h4>Ayam Kalkun</h4>
+        <a href="index.php?page=produk-detail&id=6" class="btn-detail">Lihat Detail</a>
+    </div>
+
+</div>
 
 
 <!-- JAMINAN -->
@@ -107,7 +93,7 @@
 
         <div class="jaminan-card">
 
-            <img src="assets/images/kualitas1.jpg">
+            <img src="assets/images/produk/pakan.png">
 
             <h4>1. Pemberian Pakan</h4>
 
@@ -121,7 +107,7 @@
 
         <div class="jaminan-card">
 
-            <img src="assets/images/kualitas2.jpg">
+            <img src="assets/images/produk/kandang ayam.png">
 
             <h4>2. Kebersihan Kandang</h4>
 
@@ -134,7 +120,7 @@
 
         <div class="jaminan-card">
 
-            <img src="assets/images/kualitas3.jpg">
+            <img src="assets/images/produk/vitamin.png">
 
             <h4>3. Vitamin Ayam</h4>
 
