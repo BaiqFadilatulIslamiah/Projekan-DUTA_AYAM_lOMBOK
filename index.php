@@ -1,6 +1,6 @@
 <?php
 
-$page = $_GET['page'] ?? 'Beranda';
+$page = $_GET['page'] ?? 'beranda';
 
 include "partials/header.php";
 include "partials/navbar.php";

@@ -1,16 +1,13 @@
 <footer class="footer">
-
     <div class="container footer-grid">
 
-        <div>
-            <h4>Info Bisnis</h4>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <div class="logo">
+            <img src="assets/images/logo.png" alt="Logo Duta Ayam Lombok">
         </div>
 
         <div>
-            <h4></h4>
+            <h4><a href="index.php">Home</a></h4>
             <ul>
-                <li><a href="index.php">Home</a></li>
                 <li><a href="index.php?page=produk">Produk</a></li>
                 <li><a href="index.php?page=galeri">Galeri</a></li>
                 <li><a href="index.php?page=about">Tentang Kami</a></li>
@@ -22,11 +19,10 @@
             <p>WhatsApp: 08xxxxxxxx</p>
             <p>Email: ayam_lombok@gmail.com</p>
         </div>
-
     </div>
 
     <p class="copyright">
-        © 2025 Copyright
+        © 2026 Copyright
     </p>
 
 </footer>

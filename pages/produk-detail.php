@@ -89,9 +89,9 @@ $data = $produk[$id];
         <h1>Detail Produk</h1>
     </section>
 
-    <section class="detail-container">
+    <section class="detail-container reveal">
 
-        <div class="detail-card">
+        <div class="detail-card reveal">
 
             <!-- kiri -->
             <div class="detail-image">
@@ -108,7 +108,7 @@ $data = $produk[$id];
             </div>
 
             <!-- kanan -->
-            <div class="detail-info">
+            <div class="detail-info reveal">
 
                 <h2><?= $data['nama'] ?></h2>
 

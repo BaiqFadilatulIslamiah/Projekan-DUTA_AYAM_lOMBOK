@@ -3,7 +3,7 @@
     <div class="about-container">
 
         <!-- KIRI -->
-        <div class="about-left">
+        <div class="about-left reveal">
 
             <div class="about-image"></div>
 
@@ -11,7 +11,7 @@
 
 
         <!-- KANAN -->
-        <div class="about-right">
+        <div class="about-right reveal">
 
             <h1>Tentang Kami</h1>
 
@@ -34,13 +34,13 @@
 
 
     <!-- LOKASI -->
-    <div class="lokasi-container">
+    <div class="lokasi-container reveal">
 
         <h2>Lokasi</h2>
 
         <p>jln. abc, kab. abc, Lombok, Nusa Tenggara Barat.</p>
 
-        <div class="lokasi-grid">
+        <div class="lokasi-grid reveal">
 
             <div class="maps">
                 MAPS
@@ -55,3 +55,4 @@
     </div>
 
 </section>
+<script src="assets/js/main.js"></script>
