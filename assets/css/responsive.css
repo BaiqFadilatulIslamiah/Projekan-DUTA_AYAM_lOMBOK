@@ -1,0 +1,120 @@
+/* ================= RESPONSIVE ================= */
+
+/* TABLET */
+@media (max-width: 992px){
+
+.container{
+    padding: 0 20px;
+}
+
+.about-preview{
+    flex-direction: column;
+    text-align: center;
+}
+
+.about-img img{
+    width: 250px;
+}
+
+.about-text p{
+    max-width: 100%;
+}
+
+.produk-page .produk-grid{
+    grid-template-columns: repeat(2,1fr);
+}
+
+.footer-grid{
+    grid-template-columns: repeat(2,1fr);
+}
+
+.detail-card{
+    flex-direction: column;
+}
+
+.detail-image,
+.detail-info{
+    width: 100%;
+}
+
+.about-container{
+    grid-template-columns: 1fr;
+}
+
+.lokasi-grid{
+    grid-template-columns: 1fr;
+}
+
+.galeri-grid{
+    grid-template-columns: repeat(2,1fr);
+}
+
+}
+
+/* MOBILE */
+@media (max-width: 768px){
+
+.hero{
+    height: 350px;
+}
+
+.hero-content{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.hero-content h1{
+    font-size: 30px;
+}
+
+.hero-content p{
+    font-size: 16px;
+}
+
+.menu{
+    gap: 5px;
+}
+
+.menu a{
+    padding: 10px 10px;
+    font-size: 14px;
+}
+
+.about-preview{
+    padding: 60px 20px;
+}
+
+.produk-page .produk-grid{
+    grid-template-columns: 1fr;
+}
+
+.galeri-grid{
+    grid-template-columns: 1fr;
+}
+
+.footer-grid{
+    grid-template-columns: 1fr;
+}
+
+}
+
+/* HP KECIL */
+@media (max-width: 480px){
+
+.hero-content h1{
+    font-size: 24px;
+}
+
+.hero-content p{
+    font-size: 14px;
+}
+
+.navbar{
+    padding: 10px 15px;
+}
+
+.logo img{
+    height: 40px;
+}
+
+}
