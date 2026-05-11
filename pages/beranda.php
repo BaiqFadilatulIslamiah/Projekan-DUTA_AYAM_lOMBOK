@@ -3,11 +3,11 @@
     <div class="hero-overlay">
         <div class="hero-content container">
 
-            <h1>Ayam Berkualitas dari Peternakan Kami</h1>
+            <h1>Ayam Karkas Fresh & Frozen Berkualitas Tinggi</h1>
 
             <p>
-                Menyediakan berbagai jenis ayam sehat, segar, dan siap
-                kirim langsung dari peternakan terpercaya.
+                Diproses higienis langsung dari peternakan terpercaya. Segar, aman, 
+                dan siap memenuhi kebutuhan bisnis maupun rumah tangga Anda.
             </p>
 
             <div class="hero-btn">
@@ -26,10 +26,14 @@
         <img src="assets/images/produk/super ayam.jpg">
     </div>
     <div class="about-text reveal">
-        <h2>LOREM IPSUM</h2>
+        <h2>Tentang Kami</h2>
         <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Illum iure tempora molestiae, odit eos sit.
+            Kami adalah penyedia ayam karkas fresh dan frozen yang berkomitmen menghadirkan produk berkualitas tinggi langsung dari peternakan pilihan. Dengan proses pemotongan yang higienis dan standar penanganan yang ketat, kami memastikan setiap produk tetap segar, bersih, dan layak konsumsi.
+        </p>
+
+        <p>
+            Kami melayani kebutuhan individu, UMKM, restoran, hingga distributor dalam skala besar dengan pengiriman cepat dan terjamin.
+
         </p>
 
         <a href="https://wa.me/6285937020880" class="btn reveal" target="_blank">
@@ -41,7 +45,7 @@
 
 <section class="produk container">
     <div class="produk-text reveal">
-        <h2>Produk Lainnya</h2>
+        <h2>Produk Kami</h2>
     </div>
     <div class="produk-grid">
         <div class="produk-card reveal">
@@ -93,32 +97,31 @@
 
 <section class="jaminan">
     <div class="reveal">
-        <h2>Jaminan Kualitas Ayam Kami</h2>
+        <h2>Kenapa Memilih Kami?</h2>
     </div>
     <div class="jaminan-grid reveal">
         <div class="jaminan-card">
             <img src="assets/images/produk/pakan.png">
-            <h4>1. Pemberian Pakan</h4>
+            <h4>1. Karkas Berkualitas dari Sumber Terbaik</h4>
             <p>
-                Ayam kami diberi pakan bernutrisi tinggi sehingga menghasilkan
-                kualitas daging terbaik.
+                Diproses dari peternakan terpercaya dengan standar kesehatan tinggi.
             </p>
         </div>
 
         <div class="jaminan-card">
             <img src="assets/images/produk/kandang ayam.png">
-            <h4>2. Kebersihan Kandang</h4>
+            <h4>2. Higienis & Aman Dikonsumsi</h4>
             <p>
-                Kandang selalu dibersihkan untuk menjaga kesehatan ayam.
+                Melalui proses pengolahan bersih dan profesional untuk menjaga mutu produk.
             </p>
         </div>
 
 
         <div class="jaminan-card">
             <img src="assets/images/produk/vitamin.png">
-            <h4>3. Vitamin Ayam</h4>
+            <h4>3. Fresh & Frozen Siap Distribusi</h4>
             <p>
-                Kami memberikan vitamin untuk menjaga kualitas ayam.
+                Tersedia dalam kondisi segar dan beku, siap kirim dengan kualitas terjaga.
             </p>
         </div>
     </div>

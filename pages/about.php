@@ -16,16 +16,15 @@
             <h1>Tentang Kami</h1>
 
             <p>
-            Corem ipsum dolor sit amet, consectetur adipiscing elit.
-            Etiam eu turpis molestie, dictum est a, mattis tellus.
-            Sed dignissim, metus nec fringilla accumsan, risus sem
-            sollicitudin lacus, ut interdum tellus elit sed risus.
+                CV Duta Lombok adalah perusahaan yang bergerak di bidang penyediaan karkas ayam fresh dan frozen berkualitas tinggi, yang berasal dari peternakan terpercaya di Lombok. Kami berkomitmen untuk menghadirkan produk yang higienis, segar, dan aman dikonsumsi guna memenuhi kebutuhan pasar, baik untuk rumah tangga, UMKM, hingga industri kuliner.
             </p>
 
             <p>
-            Maecenas eget condimentum velit, sit amet feugiat lectus.
-            Class aptent taciti sociosqu ad litora torquent per conubia
-            nostra, per inceptos himenaeos.
+                Dengan sistem pengolahan yang terstandarisasi dan pengawasan ketat pada setiap tahap produksi, kami memastikan setiap karkas yang kami distribusikan memiliki kualitas terbaik. Didukung dengan penanganan suhu yang optimal serta proses distribusi yang cepat, kami menjaga kesegaran produk hingga sampai ke tangan pelanggan.
+            </p>
+
+            <p>
+                CV Duta Lombok tidak hanya fokus pada kualitas produk, tetapi juga pada pelayanan yang responsif dan profesional. Kami siap menjadi mitra terpercaya dalam memenuhi kebutuhan pasokan karkas ayam secara konsisten dan berkelanjutan.
             </p>
 
         </div>

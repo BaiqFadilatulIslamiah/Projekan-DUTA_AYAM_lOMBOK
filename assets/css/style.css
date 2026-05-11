@@ -41,7 +41,7 @@ body {
     bottom: 0;
     z-index: 1000;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-    overflow: hidden;
+    overflow: visible;
 }
 
 .hero {
@@ -144,6 +144,7 @@ body {
     line-height: 1.6;
     margin-bottom: 25px;
     color: #F9FBF5;
+    text-align: justify;
 }
 
 .hero-btn{
@@ -170,14 +171,15 @@ body {
     display: flex;
     align-items: center;
     gap: 60px;
-    padding: 80px 90px;
+    padding: 80px 0px;
     background: #F9F8F2;
-    max-width: 1080px;
+    max-width: 100%;
     margin: auto;
 }
 
 .about-img img {
     width: 300px;
+    margin-left: 80px;
     border-radius: 20px;
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.12);
     transition: transform 0.3s ease;
@@ -188,6 +190,7 @@ p {
     color: #4a5f3b;
     line-height: 1.7;
     max-width: 520px;
+    text-align: justify;
 }
 
 .btn {
@@ -268,9 +271,8 @@ p {
 
 
 /* JAMINAN */
-
 .jaminan {
-    text-align: center;
+    text-align: initial;
     padding: 60px 20px;
     color: #4a5f3b;
 }
@@ -288,8 +290,8 @@ p {
 .jaminan-card {
     background: white;
     border-radius: 15px;
-    padding: 25px;
-    text-align: center;
+    padding: 50px 40px; /* kiri kanan diperbesar */
+    text-align: left;
 }
 
 /* GAMBAR */
@@ -303,15 +305,20 @@ p {
 }
 
 /* JUDUL */
-.jaminan-card h3 {
+.jaminan-card h4 {
     font-size: 18px;
     margin-bottom: 10px;
+    padding: 0 30px;     /* geser dari kiri & kanan */
+    text-align: left;
 }
 
 /* DESKRIPSI */
 .jaminan-card p {
     font-size: 14px;
     color: #555;
+    padding: 0 30px;     /* samakan dengan judul */
+    text-align: justify; /* boleh justify biar rapi */
+    line-height: 1.6;
 }
 
 /* FOOTER */
@@ -523,6 +530,7 @@ p {
     font-size: 40px;
     color: #3d5f2c;
     margin-bottom: 20px;
+    text-align: justify;
 }
 
 .about-right p {
@@ -697,4 +705,19 @@ p {
 
 .galeri-item:not(.besar):not(.tinggi):not(.lebar) {
     height: 240px;
+}
+
+.hamburger {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+    gap: 6px;
+}
+
+.hamburger span {
+    width: 28px;
+    height: 3px;
+    background: #457431;
+    border-radius: 10px;
+    transition: 0.3s;
 }
